@@ -5,7 +5,7 @@ My name is Luís Gustavo, and I'm an undergraduate, computer vision researcher f
 [![Luís's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgstvo&theme=solarized-dark&show_icons=true)](https://github.com/lgstvo)
 
 - 📚 I'm an undergraduate on Information Systems at <a href="https://ufmg.br/" target="_blank">UFMG</a>
-- 🔭 I’m currently working at <a href="https://www.verlab.dcc.ufmg.br/" target="_blank"> VeRLab: Laboratory of Roboctics and Computer Vision</a>
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning computer vision and machine learning
 - 🤔 I’m looking for help with computer science. Every knowledge counts on improving!
 - 🌎 I speak <b>Portuguese</b> <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="16"/> and <b>English</b> <img src="https://www.svgrepo.com/show/110211/united-kingdom.svg" width="13"/>. I have a growing interest and am currently learning <b>Spanish</b>, <b>German</b>, <b>Swedish</b>, <b>Russian</b> and <b>Italian</b>. Feel free to talk to me about languages too!
