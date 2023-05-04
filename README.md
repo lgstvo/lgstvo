@@ -4,7 +4,7 @@ My name is Luís Gustavo, and I'm an undergraduate, cybersecurity analyst/resear
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lgstvo&theme=solarized-dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-
+<br/>
 
 - 📚 I’m an undergraduate on Information Systems at <a href="https://ufmg.br/" target="_blank">UFMG</a>
 - 🔭 I’m currently working as a researcher at WiNet Lab, and <b>looking for work!</b>
